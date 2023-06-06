@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Weather In Durham,NC</title>
+    <title>Weather</title>
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
