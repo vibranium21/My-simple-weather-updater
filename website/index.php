@@ -15,7 +15,7 @@
     <h5>Weather Data:</h5>
     
 <?php
-    $api_key = "66f288d993da3c522897dd934449ab63";
+    $api_key = "APIKEY";
     $city = "{$_GET["City:"]}";
     $url = "http://api.openweathermap.org/data/2.5/weather?q={$city}&appid={$api_key}";
     $data = file_get_contents($url);
