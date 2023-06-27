@@ -8,7 +8,7 @@ def get_weather_data(api_key, city):
     return data
 def main():
     api_key = "My API KEY"
-    city = "Durham,US"
+    city = "THe City"
     weather_data = get_weather_data(api_key, city)
     print(weather_data)
 
